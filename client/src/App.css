@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  padding: 10px;
+  border-radius: 5%;
+  background: rgba(255, 255, 255, 0.5);
+}
+h2{
+  text-align: center;
+  font-family:  'Goudy Old Style', 'Courier New', monospace;
+}
+body{
+  background-image: linear-gradient(to left, rgb(169, 170, 170) , rgb(215, 227, 227));
+}
+p{
+  font-size:x-large;
+  font-family:'Goudy Old Style', 'Arial Narrow Bold', sans-serif;
+}
+
+label{
+  font-size:x-large;
+  font-family:Impact, 'Arial Narrow Bold', sans-serif;
+}
